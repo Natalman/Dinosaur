@@ -9,6 +9,7 @@ public class Dinosaursupervisor {
         Dinosaur velociraptor = new Dinosaur();
 
         Dinosaur nataor = new Dinosaur();
+        System.out.println("Mia");
 
         t_rex.roar();
         velociraptor.roar();
